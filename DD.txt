@@ -1,4 +1,4 @@
-****** Welcome home cheaters ************
+******* Welcome home cheaters ************
 struct num
 {
   int a;
